@@ -1,0 +1,8 @@
+RUNWAY COLLECTIVE – Version 45
+Quelltextprüfung: 6 HTML-Dateien, 5 Navigationsziele je Seite, Skip-Link zuerst, Impressum-Link, keine doppelten IDs, je eine H1, Alt-Attribute, keine fehlenden lokalen href/src-Ziele, keine externen Bildverweise, keine Skripte.
+15 unterschiedliche Originalfotos, JPEG und WebP, transparentes PNG eingebunden, animiertes Kamera-GIF, SVG-Logo plus Kalender-, Standort- und Ticket-Icons, Favicon, Apple-Touch-Icon 180 x 180.
+Externe Fotos nicht erreichbar: entfernt; keine KI-Ersatzfotos. Bilder auf 1600 px maximale Kantenlänge optimiert.
+Suche: statische Themenauswahl mit Links inklusive 404, keine Freitextsuche. Ticketpreis: CSS-Auswahl, keine echte Buchung oder Übermittlung.
+Browserprüfung wurde versucht, aber Navigation durch Umgebung blockiert. W3C-Validator, Lighthouse, 375-px-Ansicht und tatsächliche Tastaturbedienung müssen im lokalen Browser abschließend geprüft werden. Kontrastregeln verbessert, keine vollständige WCAG-Zertifizierung.
+
+V46: 7 weitere lokal gespeicherte Unsplash-Fotos, insgesamt 22 unterschiedliche Modefotos.
